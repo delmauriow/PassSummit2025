@@ -1,0 +1,12 @@
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/bin/Debug/DatabaseProjectdb-pass-test-21.dacpac
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/bin/Debug/DatabaseProjectdb-pass-test-21.deps.json
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/bin/Debug/DatabaseProjectdb-pass-test-21.dll
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/bin/Debug/DatabaseProjectdb-pass-test-21.pdb
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/obj/Debug/DatabaseProjectdb-pass-test-21.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/obj/Debug/DatabaseProjectdb-pass-test-21.sourcelink.json
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/obj/Debug/Model.xml
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/obj/Debug/refactor.xml
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/obj/Debug/postdeploy.sql
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/obj/Debug/predeploy.sql
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/obj/Debug/DatabaseProjectdb-pass-test-21.dll
+/workspaces/PassSummit2025/WingtipsWorkshop/DatabaseProjectdb-pass-test-21/obj/Debug/DatabaseProjectdb-pass-test-21.pdb

@@ -1,0 +1,12 @@
+/workspaces/PassSummit2025/WingtipsWorkshop/bin/Debug/WingtipsWorkshop.dacpac
+/workspaces/PassSummit2025/WingtipsWorkshop/bin/Debug/WingtipsWorkshop.deps.json
+/workspaces/PassSummit2025/WingtipsWorkshop/bin/Debug/WingtipsWorkshop.dll
+/workspaces/PassSummit2025/WingtipsWorkshop/bin/Debug/WingtipsWorkshop.pdb
+/workspaces/PassSummit2025/WingtipsWorkshop/obj/Debug/WingtipsWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PassSummit2025/WingtipsWorkshop/obj/Debug/WingtipsWorkshop.sourcelink.json
+/workspaces/PassSummit2025/WingtipsWorkshop/obj/Debug/Model.xml
+/workspaces/PassSummit2025/WingtipsWorkshop/obj/Debug/refactor.xml
+/workspaces/PassSummit2025/WingtipsWorkshop/obj/Debug/postdeploy.sql
+/workspaces/PassSummit2025/WingtipsWorkshop/obj/Debug/predeploy.sql
+/workspaces/PassSummit2025/WingtipsWorkshop/obj/Debug/WingtipsWorkshop.dll
+/workspaces/PassSummit2025/WingtipsWorkshop/obj/Debug/WingtipsWorkshop.pdb
