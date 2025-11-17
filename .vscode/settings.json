@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "WingtipsWorkshop/DatabaseProjectdb-pass-test-21/DatabaseProjectdb-pass-test-21.sqlproj"
+    ]
+}
